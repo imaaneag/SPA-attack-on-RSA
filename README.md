@@ -1,5 +1,7 @@
 # SPA-attack-on-RSA
 
+Here is the link to the video implementation : https://drive.google.com/file/d/1jdvwYNNSVNsVhR463yQlQ3TYOrbUEQR2/view?usp=sharing
+
  Cryptography is a science that studies secure communication methods in the presence of adversaries who seek to intercept or alter exchanged information. It relies on mathematical algorithms that allow messages to be encrypted and decrypted using a secret key. Cryptography ensures the confidentiality, authenticity, and integrity of data and is used in many fields such as computer security, wireless communication, online banking, e-commerce, etc.
 
 Symmetric cryptography (also known as secret key cryptography) and asymmetric cryptography (also known as public key cryptography) are two types of cryptography. The former allows messages to be encrypted and decrypted using the same shared secret key between the two communicating parties, while the latter involves each communicating party having a public key known by everyone and a secret private key, one for encryption and the other for decryption.
